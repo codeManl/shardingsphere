@@ -4,7 +4,7 @@ weight = 2
 +++
 
 ## 背景信息
-读写分离 Spring Boot Starter 配置方式适用于使用 SpringBoot 的业务场景，能够最大程度地利用 SringBoot 配置初始化及 Bean 管理的能力，完成 ShardingSphereDataSource 对象的创建，减少不必要的编码工作。
+读写分离 Spring Boot Starter 配置方式适用于使用 SpringBoot 的业务场景，能够最大程度地利用 SpringBoot 配置初始化及 Bean 管理的能力，完成 ShardingSphereDataSource 对象的创建，减少不必要的编码工作。
 
 ## 参数解释
 
